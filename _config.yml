@@ -1,0 +1,14 @@
+layout_spectrum: 0.3591906
+color:
+  saturation: 0.1275222
+  lightness: 0.6576319
+  brandStrength: 1
+  brandColors:
+    - '#101224'
+    - '#4F4257'
+    - '#FFFFFF'
+    - '#C7AF92'
+    - '#FFB331'
+  rhythmicContrast: 0.5030255
+typography_spectrum: 0.669665
+name: Juan Quiroga
